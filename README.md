@@ -26,7 +26,7 @@ Jose Eduardo Martinez Pimbert <b>R1,R2,R3 </b><br>
 <h3 aling="left">Referencias:</h3>
 <p>
   Los materiales de referencias están en dos videos donde me base la elaboración del codigo:<br> <a href="https://www.youtube.com/watch?v=XCjfq54KrZA" >video 1</a><br>
-  <a href="https://www.youtube.com/watch?v=f7ozQRNiYyw" >video 2</a>
+  <a href="https://www.youtube.com/watch?v=f7ozQRNiYyw" >video 2</a><br>
   Tambien utlice paginas web para generar archivos CSV:<br>
   <a href="https://evilnapsis.com/2019/04/30/crear-y-escribir-archivos-en-java-con-printwriter/"> página 1 </a> <br>
    <a href="https://codegym.cc/es/groups/posts/es.1096.java-escribir-en-un-archivo"> página 2 </a> <br>
