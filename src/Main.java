@@ -17,6 +17,7 @@ public class Main {
     public static int romanToDecimal(String roman) {
         int total = 0;
         int counter = 0;
+        roman=roman.toUpperCase();
 
         for (int i = 0; i < roman.length() - 1; i++) {
             char currentSymbol = roman.charAt(i);
@@ -38,7 +39,7 @@ public class Main {
                 }
             }
             else if (currentValue < nextValue) {
-                if (((counter==1) && currentValue <romanValues.get(roman.charAt(i - 1))) || counter==0  ) {
+                if (((counter>=1) && currentValue <romanValues.get(roman.charAt(i - 1))) || counter==0  ) {
                     String hola="Hola soy un filtro especial ";
                 }else {
                     total =0;
