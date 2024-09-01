@@ -29,6 +29,6 @@ Jose Eduardo Martinez Pimbert <b>R1,R2,R3 </b><br>
   <a href="https://www.youtube.com/watch?v=f7ozQRNiYyw" >video 2</a>
   Tambien utlice paginas web para generar archivos CSV:<br>
   <a href="https://evilnapsis.com/2019/04/30/crear-y-escribir-archivos-en-java-con-printwriter/"> página 1 </a> <br>
-   <a href="https://evilnapsis.com/2019/04/30/crear-y-escribir-archivos-en-java-con-printwriter/"> página 2 </a> <br>
+   <a href="https://codegym.cc/es/groups/posts/es.1096.java-escribir-en-un-archivo"> página 2 </a> <br>
   
 </p>
