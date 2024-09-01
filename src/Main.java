@@ -88,6 +88,8 @@ public class Main {
                     }
                 }
                 System.out.println("Archivo CSV generado!");
+            }catch (NullPointerException e){
+                System.out.println("Ingresaste un formato invalido!");
             }
         }
 
