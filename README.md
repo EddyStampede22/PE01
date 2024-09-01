@@ -17,7 +17,7 @@ Jose Eduardo Martinez Pimbert <b>R1,R2,R3 </b><br>
   Con la ayuda de un Hashmap se crea un mapa para asociar las letras principales de los números romanos con sus respectivos valores.
   Con el método romanTodecimal que recibe como parámetro un string, va a leer de derecha a izquierda haciendo que cada carácter tomado, primero lo asocie a un valor decimal,
   después que pase a ciertos filtros donde se cumplan las reglas establecidas de los números romanos que incluye la suma, la resta, la repetición de más de tres caracteres, entre otros.
-  el método regresa el valor decimal representado por el numero romano que se dio como parámetro.
+  el método regresa el valor decimal representado por el numero romano que se dio como parámetro, si regresa un cero, es porque no se encontró un numero decimal asociado a ese numero romando ingresado.
   Finalmente, dentro del main se crea un archivo CSV con la ayuda de la clase PrintWriter y FileWriter, se crea dos columnas donde va el numero romano y el numero decimal,
   conforme vaya leyendo los argumentos, se agregará a las columnas los valores dados. El programa finaliza con la creación del archivo csv con los datos ingresados y el archivo se guarda en el mismo directorio del programa. 
   El programa solo lanzará los números romanos del 1-3999, porque para describir el 4000 y los demás son otra forma de representarlo.
